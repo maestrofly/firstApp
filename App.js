@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
   container:{
     flex:1,
     marginHorizontal:5,
-    backgroundColor: "orange"
+    backgroundColor: "brown"
   },
   image:{
     marginTop:100,
