@@ -49,7 +49,7 @@ detailContainer:{
   marginVertical:3
 },
 label:{
-  borderColor:"black",
+  borderColor:"blue",
   borderWidth:1,
   fontSize:20,
   flex:2.5 ,
