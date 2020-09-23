@@ -34,12 +34,12 @@ const styles = StyleSheet.create({
   container:{
     flex:1,
     marginHorizontal:5,
-    backgroundColor: "brown"
+    backgroundColor: "yellow"
   },
   image:{
     marginTop:100,
     width:150,
-    height:150,
+    height:120,
     marginBottom:30,
     alignSelf:"center",
     borderRadius:75
